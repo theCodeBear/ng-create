@@ -1,5 +1,5 @@
 <h1> ng-create </h1>
-A script to create Angular directives, states, filters of services(factories) in the current directory.<br>
+A script to create Angular directives, states, filters, or services(factories) in the current directory.<br>
 <h3>Why?</h3>
 Because I am tired of constantly having to rewrite the same boilerplate code for these things and make their directories and files everytime I want to make a new state, directive, service, or filter in Angular.
 
